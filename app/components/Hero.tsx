@@ -5,7 +5,7 @@ import HeroImage from "../../public/assets/Image.svg"
 import Google from "../../public/assets/Google.svg"
 import Slack from "../../public/assets/Slack.svg"
 import Trustpilot from "../../public/assets/Trustpilot.svg"
-import Cnn from "../../public/assets/Cnn.svg"
+import Cnn from "../../public/assets/the-cnn.svg"
 import Clutch from "../../public/assets/Clutch.svg"
 
 export default function Hero(){
